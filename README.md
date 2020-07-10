@@ -11,6 +11,8 @@ From "gitHub_TSE_[date_stamp]" directory "TSE" folder copied to the "Tools" dire
 In folder "TSE" -> "C:\DSSAT47\Tools\TSE"
 "TSE_calibrator_DSSAT.exe" - windows runnable has to be executed as -> Administrator <-.
 
+------------------------------------------------------------------------------------------------------------
+
 I.	PlantGro.Out crop model outputs are coupled to those in File-T (growth-related) time-series in-season observations
 
 II.	Evaluate.Out crop model outputs are coupled to those in File-A (phenology-related) as DAY observations
