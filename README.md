@@ -34,7 +34,7 @@ The optimiser program is creating additional directory TSE_workspace (C:\DSSAT47
  
 The optimiser program is NOT modifying core DSSAT files in their original directories!
 
-Program run is considered: Start- “TSE_calibrator_DSSAT.exe” executed until “Exit Interface and all Running Threads” push button is pressed. Any form of optimisation done in-between is temporary saved in the temporary cultivar file in TSE_workspace directory. 
+Program run is considered: Start- “TSE_calibrator_DSSAT.exe” executed until “Exit” push button is pressed. Any form of optimisation done in-between is temporary saved in the temporary cultivar file in TSE_workspace directory. 
 
 After TSE program is started (TSE_calibrator_DSSAT.exe executed) all modifications on Cultivar file are conducted in C:\DSSAT47\TSE_workspace. During one program run (until “Exit” push button is pressed) different coefficients (or different target variables) can be optimised one after another or simultaneously and cultivar changes will be saved if accepted as “optimums” in cultivar file in C:\DSSAT47\TSE_workspace. If user is satisfied with the cultivar coefficient values based on nRMSE fit or visual fit cultivar coefficient combination should be copied to C:\DSSAT47\Tools\Genotype located cultivar file, MANUALLY. If TSE program is started again without saving the combination in C:\DSSAT47\Tools\Genotype located cultivar file new TSE program start will copy original C:\DSSAT47\Tools\Genotype located cultivar file and overwrite your working cultivar file in C:\DSSAT47\TSE_workspace.
 
