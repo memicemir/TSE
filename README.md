@@ -2,6 +2,7 @@
 Time-Series cultivar coefficient Estimator for DSSAT models
 
 -------------------------------------------IMPORTANT-------------------------------------------------------start
+
 The "gitHub_TSE_[date_stamp].zip"
 file has to be unzipped as "gitHub_TSE_[date_stamp]" working directory. 
 
@@ -25,6 +26,7 @@ VI.	If PrameterProperty.txt is NOT in the C:\DSSAT47\Tools\TSE folder, P/G (Phen
 VII.	T-file observations (all in-season observations available including 0 are used, only -99 values are ignored by the program) used for estimating the optimum genetic coefficient (phenology- and growth-related)
 
 VIII.	The program is matching DOY from T-file with those in the PlantGro.OUT. If you setup in the X-file reporting frequency for example every fifth day and exact observation DOY is not present in the PlantGro.OUT as it is written in the T-file, the program will not be able to match them for comparing simulated and observed.
+
 -------------------------------------------IMPORTANT-------------------------------------------------------end
 
 The optimiser program is creating additional directory TSE_workspace (C:\DSSAT47\TSE_workspace) and modifying the cultivar file in that directory, which is then executed by main DSSAT model executable.
