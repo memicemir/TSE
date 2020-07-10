@@ -48,7 +48,7 @@ Every time TSE_calibrator_DSSAT.exe is executed original cultivar (SBGRO047.CUL)
 
 ------------------------------------------------------------------------------------------------------------
 
-Running TSE program (The steps of preparing the estimator for run are enumerated):
+Running TSE program (The steps of preparing the estimator for run are enumerated in the interface):
 
 1.	If directory path shown is “C:\DSSAT47”, do NOT modify! If the path is not “C:\DSSAT47” (This means that TSE folder was not copied to the “C:\DSSAT47\Tools”), then navigate to TSE folder and select it. It will be explained later in more details.
 
