@@ -2,10 +2,10 @@
 Time-Series cultivar coefficient Estimator for DSSAT models (Latest version: GitHub_TSE_February2021)
 
 ------------------------------------------------------------------------------------------------------------
-The "gitHub_TSE_[mmyy].zip"
-file has to be unzipped as "gitHub_TSE_[mmyy]" working directory. 
+The "GitHub_TSE_[mmyy].zip"
+file has to be unzipped as "GitHub_TSE_[mmyy]" working directory. 
 
-From "gitHub_TSE_[mmyy]" directory "TSE" folder copied to the "Tools" directory -> "C:\DSSAT47\Tools"
+From "GitHub_TSE_[mmyy]" directory "TSE" folder copied to the "Tools" directory -> "C:\DSSAT47\Tools"
 
 In folder "TSE" -> "C:\DSSAT47\Tools\TSE"
 "TSE_calibrator_DSSAT.exe" - windows runnable has to be executed as -> Administrator <-.
