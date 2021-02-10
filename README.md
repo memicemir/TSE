@@ -20,4 +20,4 @@ I am not personally able to test TSE with all available crop models in the DSSAT
 
 The program has generic algorithm and “theoretically” should work with all crop models available in the DSSAT shell (With the exception of the Phenological events subroutine used for optimisation, because it is still hard coded).
 
-If you write me an e-mail (to: emir_memic@windowslive.com or emir.memic@uni-hohenheim.de) and let me know with what crop model you are planning to use the TSE, I can check it and make sure there are no undesired “bugs” in next TSE version for that specific crop model.
+If you write me an e-mail (to: emir_memic[at]windowslive.com or emir.memic[at]uni-hohenheim.de) and let me know with what crop model you are planning to use the TSE, I can check it and make sure there are no undesired “bugs” in next TSE version for that specific crop model.
