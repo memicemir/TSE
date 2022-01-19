@@ -1,5 +1,9 @@
 # TSE
-Time-Series cultivar coefficient Estimator for DSSAT models (Latest version: GitHub_June_2021, TSE June 2021 - User guidlines.pdf)
+Time-Series cultivar coefficient Estimator for DSSAT models.
+
+Latest version: GitHub_June_2021, TSE June 2021 - User guidlines.pdf -> in "master" branch!
+
+Older versions in: "TSE_August_2020" and "TSE_February_2021" branches...
 
 Detailed description available in the User Guidelines!
 
