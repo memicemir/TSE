@@ -1,27 +1,21 @@
 # TSE
 
-TSE June_2021 is version 1!
-TSE version 2 Test - is available in:
+TSE_v2 - official test March 2023
 
-1. https://github.com/memicemir/TSE/tree/TSE_v2_TEST_March_2023
-2. User guidlines are not ready for test version! For running and using TSE user guidlines from master branch is still relevant! 
-
-IMPORTANT: Before downoloading TSE_v2 TEST read README.md in corresponding branch!
----------------------------------------------------------------------------------------------------------
 Time-Series cultivar coefficient Estimator for DSSAT models.
 
-Latest stable version: "GitHub_June_2021.zip", with correpsonding user guidelines: "TSE June 2021 - User guidlines.pdf" --> in "master" branch!
+Latest version: "TSE_v2.7z", with correpsonding user guidelines: "TSE_v2 - User guidelines".
 
-Older versions in: "TSE_August_2020" and "TSE_February_2021" branches...
-
-Detailed description available in the User Guidelines!
+Old stable version June 2021 can be found in: https://github.com/memicemir/TSE/tree/TSE_v1---June-2021
 
 ------------------------------------------------------------------------------------------------------------
-The "GitHub_[month_year].zip" file has to be unzipped as "GitHub_[month_year]". 
+1. The "TSE_v2.7z" file has to be unzipped. 
 
-From "GitHub_[month_year]" directory "TSE" folder copied to the "Tools" directory -> "C:\DSSAT47\Tools" or "C:\DSSAT48\Tools"
+2. Unzipped "TSE_v2" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools".
 
-In folder "TSE" -> "C:\DSSAT47\Tools\TSE" "TSE_Coeff_Estimator_for_DSSAT_v1.exe" - windows runnable has to be executed as -> Administrator <-.
+3. In folder "TSE_v2" ("C:\DSSAT48\Tools\TSE_v2")  ->TSE_v2.exe<- executed as Administrator.
+
+4. More detailed instructions can be found in user guidelines!
 
 ------------------------------------------------------------------------------------------------------------
 TSE related journal publications:
