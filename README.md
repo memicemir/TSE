@@ -6,6 +6,11 @@ Time-Series cultivar coefficient Estimator for DSSAT models.
 
 Latest version: "TSE_v2.7z", with correpsonding user guidelines: "TSE_v2 - User guidelines".
 
+IMPORTANT:
+ - In case if the TSE_v2 doesnt read in correctly File-T (due to manual File-T formating in text editor and new programming code that reads in multi-layer @TRNO observations in File-T), potential solution might be to open File-T with tools "Experimental Data" the "ATCcreate" and restore File-T original automatic formating. The potential probelem caused by File-T manual format in text editor will be implemented in more robust way for next TSE upload version.
+
+------------------------------------------------------------------------------------------------------------
+
 Old stable version June 2021 can be found in: https://github.com/memicemir/TSE/tree/TSE_v1---June-2021
 
 ------------------------------------------------------------------------------------------------------------
