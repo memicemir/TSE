@@ -4,7 +4,7 @@ TSE_v2.2 - Is OFFICIAL RELEASE of the version 2 (April 2023)
 
 Time-Series cultivar coefficient Estimator for DSSAT models.
 
-Latest version: "TSE_v2.2.7z", with correpsonding user guidelines: "TSE_v2 - User guidelines (This user guidlines will be updated to TSE_v2.2 soon!)".
+Latest version: "TSE_v2.2.7z", with correpsonding user guidelines: "TSE_v2.2 - User guidelines".
 
 ------------------------------------------------------------------------------------------------------------
 1. The "TSE_v2.2.7z" file has to be unzipped (with 7-zip). 
