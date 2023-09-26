@@ -19,36 +19,36 @@ Time-Series cultivar coefficient Estimator for DSSAT models.
 ├── C:/DSSAT48
 │   ├── Genotype
 │   ├── Pest
-│	  ├── Maize
-│	  ├── Wheat
-│  	├── Soil
-│	  ├── ...	
-│	  └── Tools
+│   ├── Maize
+│   ├── Wheat
+│   ├── Soil
+│   ├── ...	
+│   └── Tools
 │       ├── GBuild
 │       ├── XBuild
 │       ├── ...
 │       └── TSE_v2.3
-│	          ├── ...
-│	          └── TSE_v2.3.exe	
+│           ├── ...
+│           └── TSE_v2.3.exe	
 
 After executing "TSE_v2.3.exe" a working directory "TSE_workspace" is created where optimization is conducted and optimization output files saved:
 
 ├── C:/DSSAT48
 │   ├── Genotype
 │   ├── Pest
-│  	├── Maize
-│  	├── Wheat
-│	  ├── Soil
-│  	├── Tools	
-│	  ├── ...	
-│  	└── TSE_workspace
-│	     	├── *.CUL
-│		     ├── *.ECO
-│		     ├── *_backup.CUL	
-│		     ├── *_backup.ECO
-│		     ├── *_boxPlot.png	
-│		     ├── ...	
-│	     	└── PlantGro.OUT
+│   ├── Maize
+│   ├── Wheat
+│   ├── Soil
+│   ├── Tools	
+│   ├── ...	
+│   └── TSE_workspace
+│       ├── *.CUL
+│       ├── *.ECO
+│       ├── *_backup.CUL	
+│       ├── *_backup.ECO
+│       ├── *_boxPlot.png	
+│       ├── ...	
+│       └── PlantGro.OUT
 </pre>
 ------------------------------------------------------------------------------------------------------------
 
