@@ -6,16 +6,50 @@ TSE_v2.2 - Is OFFICIAL RELEASE of the version 2 (April 2023)
 
 Time-Series cultivar coefficient Estimator for DSSAT models.
 
-Latest version: "TSE_v2.2.7z", with correpsonding user guidelines: "TSE_v2.2 - User guidelines".
-
 ------------------------------------------------------------------------------------------------------------
-1. The "TSE_v2.2.7z" file has to be unzipped (with 7-zip). 
+1. The "TSE_v2.3.7z" file has to be unzipped (with 7-zip). 
 
-2. Unzipped "TSE_v2.2" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools".
+2. Unzipped "TSE_v2.3" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools".
 
-3. In folder "TSE_v2.2" ("C:\DSSAT48\Tools\TSE_v2.2")  ->TSE_v2.2.exe<- executed as Administrator.
+3. In folder "TSE_v2.3" ("C:\DSSAT48\Tools\TSE_v2.3")  ->TSE_v2.3.exe<- executed as Administrator.
 
 4. More detailed instructions can be found in user guidelines!
+
+<pre>
+├── C:/DSSAT48
+│   ├── Genotype
+│   ├── Pest
+│	├── Maize
+│	├── Wheat
+│	├── Soil
+│	├── ...	
+│	└── Tools
+│       ├── GBuild
+│       ├── XBuild
+│       ├── ...
+│       └── TSE_v2.3
+│	        ├── ...
+│	        └── TSE_v2.3.exe	
+
+After executing "TSE_v2.3.exe" a working directory "TSE_workspace" is created where optimization is conducted and optimization output files saved:
+
+├── C:/DSSAT48
+│   ├── Genotype
+│   ├── Pest
+│	├── Maize
+│	├── Wheat
+│	├── Soil
+│	├── Tools	
+│	├── ...	
+│	└── TSE_workspace
+│		├── *.CUL
+│		├── *.ECO
+│		├── *_backup.CUL	
+│		├── *_backup.ECO
+│		├── *_boxPlot.png	
+│		├── ...	
+│		└── PlantGro.OUT
+</pre>
 ------------------------------------------------------------------------------------------------------------
 
 IMPORTANT:
