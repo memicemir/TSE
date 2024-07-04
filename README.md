@@ -1,17 +1,19 @@
 # TSE
 
-TSE_v2.3 - Is new version of v2.2 with few small bug fixes (June 2023) - user guidlines of v2.2 is same for v2.3
+TSE_v2.4 - is new official release of the optimizer. Hopefully more stable version with few minor bug fixes... User guidlines of the TSE_v2.2 can be used (soon I will update user guidlines to 2.4 version).
 
-TSE_v2.2 - Is OFFICIAL RELEASE of the version 2 (April 2023)
+TSE_v2.3 - is still available in the TSE repository as branch: TSE_v2.3.
+
+TSE_v2.2 - was OFFICIAL RELEASE of the version 2 (April 2023)
 
 Time-Series cultivar coefficient Estimator for DSSAT models.
 
 ------------------------------------------------------------------------------------------------------------
-1. The "TSE_v2.3.7z" file has to be unzipped (with 7-zip). 
+1. The "TSE_v2.4.7z" file has to be unzipped (with 7-zip). 
 
-2. Unzipped "TSE_v2.3" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools".
+2. Unzipped "TSE_v2.4" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools".
 
-3. In folder "TSE_v2.3" ("C:\DSSAT48\Tools\TSE_v2.3")  ->TSE_v2.3.exe<- executed as Administrator.
+3. In folder "TSE_v2.4" ("C:\DSSAT48\Tools\TSE_v2.4")  -> TSE_v2.4.exe <- executed as Administrator.
 
 4. More detailed instructions can be found in user guidelines!
 
@@ -27,11 +29,11 @@ Time-Series cultivar coefficient Estimator for DSSAT models.
 │       ├── GBuild
 │       ├── XBuild
 │       ├── ...
-│       └── TSE_v2.3
+│       └── TSE_v2.4
 │           ├── ...
-│           └── TSE_v2.3.exe	
+│           └── TSE_v2.4.exe	
 
-After executing "TSE_v2.3.exe" a working directory "TSE_workspace" is created where optimization is conducted and optimization output files saved:
+After executing "TSE_v2.4.exe" a working directory "TSE_workspace" is created where optimization is conducted and optimization output files saved:
 
 ├── C:/DSSAT48
 │   ├── Genotype
@@ -46,16 +48,9 @@ After executing "TSE_v2.3.exe" a working directory "TSE_workspace" is created wh
 │       ├── *.ECO
 │       ├── *_backup.CUL	
 │       ├── *_backup.ECO
-│       ├── *_boxPlot.png	
 │       ├── ...	
 │       └── PlantGro.OUT
 </pre>
-------------------------------------------------------------------------------------------------------------
-
-IMPORTANT:
- - Multi-lyered @TRNO observations in File-T minor bug fixed.
- - Additional debugging option introduced with "captureError.exe" in "TSE_v2.2" directory. 
-
 ------------------------------------------------------------------------------------------------------------
 
 Old stable version June 2021 can be found in: https://github.com/memicemir/TSE/tree/TSE_v1---June-2021
