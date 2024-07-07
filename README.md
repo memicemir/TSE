@@ -1,6 +1,6 @@
 # TSE
 
-TSE_v2.4 - is new official release of the optimizer. Hopefully more stable version with few minor bug fixes... User guidlines of the TSE_v2.2 can be used (soon I will update user guidlines to 2.4 version).
+TSE_v2.4 - is new official release of the optimizer. Hopefully more stable version with few minor bug fixes.
 
 TSE_v2.3 - is still available in the TSE repository as branch: TSE_v2.3.
 
