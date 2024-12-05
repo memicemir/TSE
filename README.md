@@ -1,5 +1,8 @@
 # TSE
 
+In the TSE.7z file is a new TEST version of the optimizer (TSE_v3.0). User guidlines is not yet ready for it (new version has minnor interface related changes. Use old user guidelines).
+
+
 TSE_v2.4 - is new official release of the optimizer. Hopefully more stable version with few minor bug fixes.
 
 TSE_v2.3 - is still available in the TSE repository as branch: TSE_v2.3.
