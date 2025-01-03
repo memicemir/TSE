@@ -6,6 +6,8 @@ Time-Series cultivar coefficient Estimator for DSSAT models.
 
 * From now on "TSE.exe" has generic name without version number being included in the name, due to path setup required for running TSE from within DSSAT shell "Accessories" section.
 
+* PC Antivirus Exception should be given to "TSE.exe"!
+
 In order to check what version of TSE you are running, start TSE from within DSSAT shell "Accessories" section and on top of TSE interface window TSE version is written!
 
 If you are running the TSE from DSSAT shell "Accessories" section and get Error or, it looks like the TSE is not optimizing coefficients, then download "TSE.7z" (file zipped with 7zip software) from this GitHub repository (which is currently TSE version 3.1).
@@ -14,7 +16,7 @@ Before continuing with next step make a copy of TSE directory available in "C:\D
 
 After downloading "TSE.7z" and unzipping it on your PC, copy "TSE.exe" (from unzipped file) and replace "TSE.exe" in the "C:\DSSAT48\Tools\TSE" directory.
 
-After replacing the "TSE.exe" in the TSE directory, the file path should look like this: "C:\DSSAT48\Tools\TSE\TSE.exe"
+After replacing the "TSE.exe" in the TSE directory, the file path should look like this: "C:\DSSAT48\Tools\TSE\TSE.exe". Only one "TSE" directory should be in the path "C:\DSSAT48\Tools\TSE" (potential multiple TSE directories are created due to unzipping procedure). 
 
 If the steps are implemented as instructed, then the new version will be executed from within the DSSAT shell "Accessories" section with TSE push button.
 
