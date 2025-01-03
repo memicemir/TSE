@@ -1,24 +1,26 @@
 # TSE
 
-In the TSE.7z file is a new TEST version of the optimizer (TSE_v3.0). User guidlines is not yet ready for it (new version has minnor interface related changes. Use old user guidelines).
-
-
-TSE_v2.4 - is new official release of the optimizer. Hopefully more stable version with few minor bug fixes.
-
-TSE_v2.3 - is still available in the TSE repository as branch: TSE_v2.3.
-
-TSE_v2.2 - was OFFICIAL RELEASE of the version 2 (April 2023)
-
 Time-Series cultivar coefficient Estimator for DSSAT models.
 
+* Starting with DSSAT 4.8.5 official release available at: "https://dssat.net/" the TSE (version 2.4) is included in the DSSAT shell, in the section "Accessories".
+
+* From now on "TSE.exe" has generic name without version number being included in the name, due to path setup required for running TSE from within DSSAT shell "Accessories" section.
+
+In order to check what version of TSE you are running, start TSE from within DSSAT shell "Accessories" section and on top of TSE interface window TSE version is written!
+
+If you are running the TSE from DSSAT shell "Accessories" section and get Error or, it looks like the TSE is not optimizing coefficients, then download "TSE.7z" (file zipped with 7zip software) from this GitHub repository (which is currently TSE version 3.1).
+
+Before continuing with next step make a copy of TSE directory available in "C:\DSSAT48\Tools" that you can restore, if something goes wrong.
+
+After downloading "TSE.7z" and unzipping it on your PC, copy "TSE.exe" (from unzipped file) and replace "TSE.exe" in the "C:\DSSAT48\Tools\TSE" directory.
+
+After replacing the "TSE.exe" in the TSE directory, the file path should look like this: "C:\DSSAT48\Tools\TSE\TSE.exe"
+
+If the steps are implemented as instructed, then the new version will be executed from within the DSSAT shell "Accessories" section with TSE push button.
+
+* If you still get Error or it looks like the TSE is not conducting optimization, please contact the author of the TSE, or raise ISSUE within this GitHub repository!
+
 ------------------------------------------------------------------------------------------------------------
-1. The "TSE_v2.4.7z" file has to be unzipped (with 7-zip). 
-
-2. Unzipped "TSE_v2.4" directory copied to the DSSAT Tools directory "C:\DSSAT48\Tools".
-
-3. In folder "TSE_v2.4" ("C:\DSSAT48\Tools\TSE_v2.4")  -> TSE_v2.4.exe <- executed as Administrator.
-
-4. More detailed instructions can be found in user guidelines!
 
 <pre>
 ├── C:/DSSAT48
@@ -32,11 +34,11 @@ Time-Series cultivar coefficient Estimator for DSSAT models.
 │       ├── GBuild
 │       ├── XBuild
 │       ├── ...
-│       └── TSE_v2.4
+│       └── TSE
 │           ├── ...
-│           └── TSE_v2.4.exe	
+│           └── TSE.exe	
 
-After executing "TSE_v2.4.exe" a working directory "TSE_workspace" is created where optimization is conducted and optimization output files saved:
+After executing "TSE.exe" a working directory "TSE_workspace" is created where optimization is conducted and optimization output files saved:
 
 ├── C:/DSSAT48
 │   ├── Genotype
@@ -54,10 +56,6 @@ After executing "TSE_v2.4.exe" a working directory "TSE_workspace" is created wh
 │       ├── ...	
 │       └── PlantGro.OUT
 </pre>
-------------------------------------------------------------------------------------------------------------
-
-Old stable version June 2021 can be found in: https://github.com/memicemir/TSE/tree/TSE_v1---June-2021
-
 ------------------------------------------------------------------------------------------------------------
 
 TSE related journal publications:
