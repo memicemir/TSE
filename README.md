@@ -10,7 +10,7 @@ Time-Series cultivar coefficient Estimator for DSSAT models.
 
 In order to check what version of TSE you are running, start TSE from within DSSAT shell "Accessories" section and on top of TSE interface window TSE version is written!
 
-If you are running the TSE from DSSAT shell "Accessories" section and get Error or, it looks like the TSE is not optimizing coefficients, then download "TSE.zip" (file zipped) from this GitHub repository (which is currently TSE version 4.0).
+If you are running the TSE from DSSAT shell "Accessories" section and get Error or, it looks like the TSE is not optimizing coefficients, then download "TSE.zip" (file zipped) from this GitHub repository (which is currently TSE version 4.1).
 
 Before continuing with next step make a copy of TSE directory available in "C:\DSSAT48\Tools" that you can restore, if something goes wrong.
 
