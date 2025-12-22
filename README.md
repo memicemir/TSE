@@ -45,8 +45,7 @@ If the steps are implemented as instructed, then the new version will be execute
 │           ├── yes.ico
 │           ├── no.ico
 │           ├── TSE.ico
-│           ├── PhenologicalEventsDAP.txt
-│           └── ParameterProperty.txt
+│           └── PhenologicalEventsDAP.txt
 
 After executing "TSE.exe" a working directory "TSE_workspace" is created where optimization is conducted and optimization output files saved:
 
