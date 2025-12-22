@@ -2,7 +2,7 @@
 
 Time-Series cultivar coefficient Estimator for DSSAT models.
 
-Current version: TSE - v 4.3 (TEST) !
+Current version: TSE - v 5.0 (TEST) ! - This is a new version in which user can optimize simultaneously coefficients available in Cultivar and Ecotype. In order to get simultanous access to coefficients in CUL and ECO file a user activate "Cultivar" and "Ecotype" checkbox in TSE 1.2 section and activates "Advenced - All coefficients liste (P/G/N)" checkbox in TSE section 3.1. As a result in TSE section 4.1 Coefficient list all coefficients from CUL and ECO file are listed wiht *.CUL and *.ECO label indicating source of coefficient.  
 
 * Starting with DSSAT 4.8.5 official release available at: "https://dssat.net/" the TSE (version 2.4) is included in the DSSAT shell, in the section "Accessories".
 
@@ -18,7 +18,7 @@ Version 4.2 can be found in https://github.com/memicemir/TSE/tree/TSE_v.4.2
 
 Before continuing with next step make a copy of TSE directory available in "C:\DSSAT48\Tools" that you can restore, if something goes wrong.
 
-After downloading "TSE.zip" and unzipping it on your PC, copy the content of TSE folder to the "C:\DSSAT48\Tools\TSE" directory (including: "TSE.exe", "yes.ico", "no.ico, "TSE.ico", "PhenologicalEventsDAP.txt" and "ParameterProperty.txt").
+After downloading "TSE.zip" and unzipping it on your PC, copy the content of TSE folder to the "C:\DSSAT48\Tools\TSE" directory (including: "TSE.exe", "yes.ico", "no.ico, "TSE.ico", "PhenologicalEventsDAP.txt").
 
 After adding the files to the TSE directory, the file path should look like this: "C:\DSSAT48\Tools\TSE\TSE.exe".
 
