@@ -1,6 +1,6 @@
 # TSE
 
-Time-Series cultivar coefficient Estimator for DSSAT models.
+Time-Series cultivar coefficient Estimator for DSSAT models. (master branche - official realease! Test versions are to be found in optional Branches!)
 
 If TSE is not starting after clicking on the TSE icon in the DSSAT shell potential reasons: 
 * Antivirus exception required !
